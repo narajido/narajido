@@ -34,13 +34,6 @@
 
 <br/><br/>
 
-<img src="assets/h-contact.svg" width="100%" alt="04 Connect" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-narajido-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=0D1117)](https://github.com/narajido)
-[![Email](https://img.shields.io/badge/Email-narajido%40proton.me-0D1117?style=for-the-badge&logo=protonmail&logoColor=8B5CF6&labelColor=0D1117&color=0D1117)](mailto:narajido@proton.me)
-
 <img src="assets/footer.svg" width="100%" alt="End of transmission" />
 
 </div>
