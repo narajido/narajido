@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150"><defs><filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter></defs><g transform="translate(0 0)">
+<rect x="0.5" y="0.5" width="225" height="149" rx="10" fill="#0d1117" stroke="#ffe81f" stroke-opacity="0.45"/>
+<rect x="0" y="0" width="226" height="3" rx="1.5" fill="#ffe81f"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" begin="-0.0s" repeatCount="indefinite"/></rect>
+<ellipse cx="113.0" cy="62" rx="70" ry="38" fill="#ffe81f" opacity="0.10" filter="url(#b)"/>
+<rect x="61.0" y="56" width="30" height="12" rx="2" fill="#8b949e"/><rect x="73.0" y="56" width="3" height="12" fill="#30363d"/><rect x="83.0" y="56" width="3" height="12" fill="#30363d"/><rect x="91.0" y="58" width="5" height="8" fill="#c9d1d9"/>
+<rect x="96.0" y="58" width="0" height="8" rx="4" fill="#4fc3ff" filter="url(#b)"><animate attributeName="width" values="0;74;74;74;0" keyTimes="0;0.2;0.8;0.95;1" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="96.0" y="60" width="0" height="4" rx="2" fill="#fff"><animate attributeName="width" values="0;74;74;74;0" keyTimes="0;0.2;0.8;0.95;1" dur="4s" repeatCount="indefinite"/></rect>
+<text x="113.0" y="125" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#e6edf3" letter-spacing="4">STAR WARS</text>
+</g><g transform="translate(258 0)">
+<rect x="0.5" y="0.5" width="225" height="149" rx="10" fill="#0d1117" stroke="#ff4d4d" stroke-opacity="0.45"/>
+<rect x="0" y="0" width="226" height="3" rx="1.5" fill="#ff4d4d"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" begin="-0.7s" repeatCount="indefinite"/></rect>
+<ellipse cx="113.0" cy="62" rx="70" ry="38" fill="#ff4d4d" opacity="0.10" filter="url(#b)"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.4s" repeatCount="indefinite"/>
+<rect x="91.0" y="28" width="12" height="7" rx="2" fill="#ffd500"/><rect x="117.0" y="28" width="12" height="7" rx="2" fill="#ffd500"/><rect x="83.0" y="34" width="52" height="22" rx="3" fill="#ffd500"/></g>
+<rect x="77.0" y="56" width="12" height="7" rx="2" fill="#e3000b"/><rect x="101.0" y="56" width="12" height="7" rx="2" fill="#e3000b"/><rect x="125.0" y="56" width="12" height="7" rx="2" fill="#e3000b"/><rect x="69.0" y="63" width="88" height="30" rx="3" fill="#e3000b"/>
+<text x="113.0" y="125" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#e6edf3" letter-spacing="4">LEGO</text>
+</g><g transform="translate(516 0)">
+<rect x="0.5" y="0.5" width="225" height="149" rx="10" fill="#0d1117" stroke="#5b8cff" stroke-opacity="0.45"/>
+<rect x="0" y="0" width="226" height="3" rx="1.5" fill="#5b8cff"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" begin="-1.4s" repeatCount="indefinite"/></rect>
+<ellipse cx="113.0" cy="62" rx="70" ry="38" fill="#5b8cff" opacity="0.10" filter="url(#b)"/>
+<g><animateTransform attributeName="transform" type="rotate" values="-14 113.0 62;14 113.0 62;-14 113.0 62" dur="2.4s" repeatCount="indefinite"/>
+<circle cx="113.0" cy="62" r="30" fill="#f5f5f5"/><path d="M83.0 62 A30 30 0 0 1 143.0 62Z" fill="#ee1515"/><rect x="83.0" y="59" width="60" height="6" fill="#222"/><circle cx="113.0" cy="62" r="9" fill="#f5f5f5" stroke="#222" stroke-width="4"/><circle cx="113.0" cy="62" r="30" fill="none" stroke="#222" stroke-width="3"/></g>
+<text x="113.0" y="125" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#e6edf3" letter-spacing="4">POKÉMON</text>
+</g><g transform="translate(774 0)">
+<rect x="0.5" y="0.5" width="225" height="149" rx="10" fill="#0d1117" stroke="#b07cff" stroke-opacity="0.45"/>
+<rect x="0" y="0" width="226" height="3" rx="1.5" fill="#b07cff"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" begin="-2.0999999999999996s" repeatCount="indefinite"/></rect>
+<ellipse cx="113.0" cy="62" rx="70" ry="38" fill="#b07cff" opacity="0.10" filter="url(#b)"/>
+<path d="M65.0 84 Q59.0 48 83.0 44 H143.0 Q167.0 48 161.0 84 Q155.0 96 145.0 84 L139.0 76 H87.0 L81.0 84 Q71.0 96 65.0 84Z" fill="#2d333b" stroke="#b07cff" stroke-width="2"/>
+<rect x="77.0" y="56" width="16" height="5" rx="1" fill="#c9d1d9"/><rect x="82.5" y="50.5" width="5" height="16" rx="1" fill="#c9d1d9"/>
+<circle cx="137.0" cy="54" r="4" fill="#ff4d4d"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle><circle cx="147.0" cy="62" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" begin="-.4s" repeatCount="indefinite"/></circle><circle cx="127.0" cy="62" r="4" fill="#4fc3ff"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" begin="-.8s" repeatCount="indefinite"/></circle><circle cx="137.0" cy="70" r="4" fill="#ffd500"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" begin="-1.2s" repeatCount="indefinite"/></circle>
+<text x="113.0" y="125" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" fill="#e6edf3" letter-spacing="4">GAMING</text>
+</g></svg>
